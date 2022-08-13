@@ -1,3 +1,5 @@
+[Frontend repo only](https://github.com/LevwTech/fifa-db-frontend)
+[Backend repo only](https://github.com/LevwTech/fifa-db-backend)
 # Frontend
 
  Used React, Javascript, Html and Css to create a user interface to talk to the backend via rest api and insert to the database via forms from client side and display the data obtained from select queries. We display players inform of nice fifa cards.
